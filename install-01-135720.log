@@ -1,0 +1,211 @@
+./install-hyprland-2.1: line 121: -Syu: command not found
+[33m[NOTE][m installing hyprland ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m hyprland failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+./install-hyprland-2.1: line 137: -S: command not found
+[33m[NOTE][m installing foot ...
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m foot failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing swaybg ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m swaybg failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing swaylock-effects ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m swaylock-effects failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing wofi ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m wofi failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing wlogout ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m wlogout failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing mako ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m mako failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing grim ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m grim failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing slurp ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m slurp failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing wl-clipboard ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m wl-clipboard failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing polkit-kde-agent ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m polkit-kde-agent failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing nwg-look-bin ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m nwg-look-bin failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing swww ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m swww failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing mousepad ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m mousepad failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing micro ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m micro failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing pipewire-alsa ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m pipewire-alsa failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing pavucontrol ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m pavucontrol failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing playerctl ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m playerctl failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing qt5ct ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m qt5ct failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing btop ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m btop failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing jq ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m jq failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing gvfs ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m gvfs failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+./install-hyprland-2.1: line 137: -S: command not found
+[33m[NOTE][m installing gvfs-mtp ...
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m gvfs-mtp failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+./install-hyprland-2.1: line 137: -S: command not found
+[33m[NOTE][m installing ffmpegthumbs ...
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m ffmpegthumbs failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+./install-hyprland-2.1: line 137: -S: command not found
+[33m[NOTE][m installing mpv ...
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m mpv failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+./install-hyprland-2.1: line 137: -S: command not found
+[33m[NOTE][m installing python-requests ...
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m python-requests failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+./install-hyprland-2.1: line 137: -S: command not found
+[33m[NOTE][m installing pamixer ...
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m pamixer failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+./install-hyprland-2.1: line 137: -S: command not found
+[33m[NOTE][m installing brightnessctl ...
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m brightnessctl failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+./install-hyprland-2.1: line 137: -S: command not found
+[33m[NOTE][m installing xdg-user-dirs ...
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m xdg-user-dirs failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+./install-hyprland-2.1: line 137: -S: command not found
+[33m[NOTE][m installing viewnior ...
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m viewnior failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+./install-hyprland-2.1: line 137: -S: command not found
+[33m[NOTE][m installing mpv ...
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m mpv failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+./install-hyprland-2.1: line 137: -S: command not found
+[33m[NOTE][m installing network-manager-applet ...
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m network-manager-applet failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+./install-hyprland-2.1: line 137: -S: command not found
+[33m[NOTE][m installing cava ...
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m cava failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+./install-hyprland-2.1: line 137: -S: command not found
+[33m[NOTE][m installing otf-font-awesome ...
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m otf-font-awesome failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+./install-hyprland-2.1: line 137: -S: command not found
+[33m[NOTE][m installing ttf-jetbrains-mono-nerd ...
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m ttf-jetbrains-mono-nerd failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+./install-hyprland-2.1: line 137: -S: command not found
+[33m[NOTE][m installing ttf-jetbrains-mono ...
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m ttf-jetbrains-mono failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+./install-hyprland-2.1: line 137: -S: command not found
+[33m[NOTE][m installing otf-font-awesome-4 ...
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m otf-font-awesome-4 failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+./install-hyprland-2.1: line 137: -S: command not found
+[33m[NOTE][m installing ttf-droid ...
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m ttf-droid failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+./install-hyprland-2.1: line 137: -S: command not found
+[33m[NOTE][m installing ttf-fantasque-sans-mono ...
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m ttf-fantasque-sans-mono failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+./install-hyprland-2.1: line 137: -S: command not found
+[33m[NOTE][m installing adobe-source-code-pro-fonts ...
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m adobe-source-code-pro-fonts failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+./install-hyprland-2.1: line 137: -S: command not found
+[33m[NOTE][m installing waybar-hyprland-git ...
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m waybar-hyprland-git failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[32m[OK][mAll necessary packages installed successfully.\033[0m
+[33m[NOTE][m installing catppuccin-gtk-theme-mocha ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m catppuccin-gtk-theme-mocha failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing catppuccin-cursors-mocha ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m catppuccin-cursors-mocha failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+./install-hyprland-2.1: line 137: -S: command not found
+[33m[NOTE][m installing thunar ...
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m thunar failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+./install-hyprland-2.1: line 137: -S: command not found
+[33m[NOTE][m installing thunar-volman ...
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m thunar-volman failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing tumbler ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m tumbler failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing thunar-archive-plugin ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m thunar-archive-plugin failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing bluez ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m bluez failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+./install-hyprland-2.1: line 137: -S: command not found
+[33m[NOTE][m installing bluez-utils ...
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m bluez-utils failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing blueman ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m blueman failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+Failed to enable unit, unit bluetooth.service does not exist.
+./install-hyprland-2.1: line 137: -S: command not found
+[33m[NOTE][m installing sddm-git ...
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m sddm-git failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
+[33m[NOTE][m installing sddm-catppuccin-git ...
+./install-hyprland-2.1: line 137: -S: command not found
+./install-hyprland-2.1: line 137: -S: command not found
+[1A[K[31m[ERROR][m sddm-catppuccin-git failed to install :( , please check the install.log . You may need to install manually! Sorry I have tried :(
